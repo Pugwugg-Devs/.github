@@ -2,6 +2,8 @@
 
 ### Powered by [HostByte](https://hostbyte.net)
 
+I am currently not looking for work i am currently invested in [HostByte](https://discord.gg/KUHW6QYzH6) & [RegalRoleplay](https://discord.gg/regalroleplay)
+
 ## 🌟 About Us
 
 Pugwugg Development is dedicated to building high-quality software solutions that make a difference. We believe in clean code, collaborative development, and creating tools that developers love to use.
